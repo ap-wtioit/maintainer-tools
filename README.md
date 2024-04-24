@@ -12,6 +12,8 @@
     $ python setup.py install
 
 Alternatively if using pipx.
+![FireShot Capture 260 - OCA_maintainer-tools_ Odoo Maintainers Tools   conventions for OCA me_ - github com](https://github.com/OCA/maintainer-tools/assets/38032588/1aa99b89-6143-410f-8dab-4783786126fd)
+
 
     $ pipx install oca-maintainers-tools@git+https://github.com/OCA/maintainer-tools.git
 
